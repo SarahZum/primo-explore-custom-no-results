@@ -11,3 +11,10 @@ Here's how we've customized at St. Olaf College:
 
 ![No results customized](no_results_custom.png?raw=true "No results customized")
 
+If you use the HTML as given in the Angular component, you'll probably want to suppress the OTB tile in the CSS:
+
+```css
+prm-no-search-result > md-card {
+    display:none;
+}
+```
