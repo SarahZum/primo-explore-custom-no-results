@@ -11,7 +11,7 @@ It also allows you to adjust the text and other links you provide when a user is
 
 https://[site-ID].on.worldcat.org/search?queryString=kw:{{$ctrl.getSearchTerm()}}&databaseList=283
 
-Here's how we've customized at [https://stolaf-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=01BRC_SOC&vid=01BRC_SOC&mode=Basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,saj%20eofi&displayField=all&search_scope=default_scope&pcAvailabiltyMode=false&tab=library_collections](St. Olaf College):
+Here's how we've customized at [St. Olaf College](https://stolaf-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=01BRC_SOC&vid=01BRC_SOC&mode=Basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,saj%20eofi&displayField=all&search_scope=default_scope&pcAvailabiltyMode=false&tab=library_collections):
 
 ![No results customized](no_results_custom.png?raw=true "No results customized")
 
